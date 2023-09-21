@@ -8,10 +8,10 @@
 
   **Result** <br>
   `Evaluate metrics`
-  ![8eaefedee3ea1ffc1fccb3a25ea4c5e2.png](:/c5de7364f3a24924b548f3e15672ac82)
+  ![Evaluate metrics](/assets/metrics_models.PNG)
   
   `Model total prediction`
-  ![image](https://github.com/ackermanjayjay/sms-spam/assets/64537170/e89d4b36-08e7-44c2-b73d-38e8bb451e78) <br>
+  ![Model total prediction](https://github.com/ackermanjayjay/sms-spam/assets/64537170/e89d4b36-08e7-44c2-b73d-38e8bb451e78) <br>
   
 **Observation Model from image   Evaluate metrics and   Model total prediction**<br>
 
@@ -39,7 +39,8 @@ f1 score 0.96
 Wrong prediction 18 total
 correct prediciction 1097 
 
-![f6d9df9d9a78fa513821e78eb3d42b54.png](:/dacbf4098c4142be841f33ca2cffde93)
+![summary_wrong_predict](/assets/pie%20chart%20wrong%20predict.PNG)
+![summary_right_predict](/assets/pie%20chart%20correct%20predict.PNG)
 
 ![50648d35d7b3c89b99764a7c9679f326.png](:/cd53c05074ac4f2ba687c36668fc1ac1)
 
