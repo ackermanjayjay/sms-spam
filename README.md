@@ -37,8 +37,9 @@ accuracy 98%
 recall 0.96
 f1 score 0.96
 Wrong prediction 18 total
-correct prediciction 1097 
+correct prediciction 1097 <br>
 
+**Pie chart prediction**
 ![summary_wrong_predict](/assets/pie%20chart%20wrong%20predict.PNG)
 ![summary_right_predict](/assets/pie%20chart%20correct%20predict.PNG)
 
