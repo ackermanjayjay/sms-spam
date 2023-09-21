@@ -7,10 +7,10 @@
 
 
   **Result** <br>
-  `Evaluate metrics`
+  * Evaluate metrics
   ![Evaluate metrics](/assets/metrics_models.PNG)
   
-  `Model total prediction`
+  * Model total prediction
   ![Model total prediction](https://github.com/ackermanjayjay/sms-spam/assets/64537170/e89d4b36-08e7-44c2-b73d-38e8bb451e78) <br>
   
 **Observation Model from image   Evaluate metrics and   Model total prediction**<br>
@@ -42,7 +42,6 @@ correct prediciction 1097
 ![summary_wrong_predict](/assets/pie%20chart%20wrong%20predict.PNG)
 ![summary_right_predict](/assets/pie%20chart%20correct%20predict.PNG)
 
-![50648d35d7b3c89b99764a7c9679f326.png](:/cd53c05074ac4f2ba687c36668fc1ac1)
 
 **Summary pie chart**
 * Pie chart Wrong prediction
