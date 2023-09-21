@@ -39,7 +39,7 @@ f1 score 0.96
 Wrong prediction 18 total
 correct prediciction 1097 <br>
 
-**Pie chart prediction**
+**Pie chart prediction** <br>
 ![summary_wrong_predict](/assets/pie%20chart%20wrong%20predict.PNG)
 ![summary_right_predict](/assets/pie%20chart%20correct%20predict.PNG)
 
