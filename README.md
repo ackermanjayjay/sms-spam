@@ -7,10 +7,10 @@
 
 
   **Result** <br>
-  * Evaluate metrics
+  * Evaluate metrics <br>
   ![Evaluate metrics](/assets/metrics_models.PNG)
   
-  * Model total prediction
+  * Model total prediction <br>
   ![Model total prediction](https://github.com/ackermanjayjay/sms-spam/assets/64537170/e89d4b36-08e7-44c2-b73d-38e8bb451e78) <br>
   
 **Observation Model from image   Evaluate metrics and   Model total prediction**<br>
