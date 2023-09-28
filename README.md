@@ -1,5 +1,15 @@
 # sms-spam
+## Sms-Spam is project Based Artificial Intelligence on field Natural Language Processing
+
 <br>Make project reference by paper [journal](https://arxiv.org/pdf/2110.15718v3.pdf)   <br>
+
+This project use tech 
+* Python (programming language) 
+* Google Collab
+* `Pandas`  (Python Library for manipulation data) [Link](https://pandas.pydata.org/pandas-docs/stable/index.html)
+* NLTK (Python Library for text preprocessing) [Link](https://www.nltk.org/)
+* Scikit-learn (Python library for machine learning) [Link](https://scikit-learn.org/)
+* Matplotlib (Python Library for vizualization) [Link](https://matplotlib.org/)
  
  This model has scenario train split test data
  * train data 80% total data
